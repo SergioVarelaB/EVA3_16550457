@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='EVA3_10Clima_Async_Task'
